@@ -1,0 +1,10 @@
+
+Phishing Analysis Lab Setup
+
+1. Collect a suspicious email sample
+2. Extract email headers
+3. Analyze headers using MXToolbox
+4. Extract URLs from email body
+5. Check URLs using VirusTotal
+6. Identify malicious indicators
+7. Write investigation report

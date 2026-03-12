@@ -1,0 +1,18 @@
+
+Phishing Email Investigation Report
+
+Summary:
+The analyzed email attempts to impersonate Microsoft and trick users
+into clicking a malicious verification link.
+
+Findings:
+- Domain uses typosquatting (micr0soft instead of microsoft)
+- Suspicious external link detected
+- Domain recently registered
+- Email uses urgency to manipulate user
+
+Risk Level:
+High
+
+Recommendation:
+Block the domain and IP, and educate users about phishing awareness.

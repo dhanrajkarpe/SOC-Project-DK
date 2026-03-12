@@ -1,0 +1,14 @@
+
+Tools Used During Investigation
+
+VirusTotal
+https://www.virustotal.com
+
+URLScan
+https://urlscan.io
+
+MXToolbox
+https://mxtoolbox.com
+
+WHOIS Lookup
+https://whois.domaintools.com
