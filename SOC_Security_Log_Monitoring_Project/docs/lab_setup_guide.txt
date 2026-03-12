@@ -1,0 +1,11 @@
+
+SOC Lab Setup Guide
+
+1. Install VirtualBox
+2. Install Kali Linux VM
+3. Install Windows 10 VM
+4. Install Splunk on Windows
+5. Generate traffic using Nmap
+6. Capture packets using Wireshark
+7. Import logs into Splunk
+8. Analyze security alerts
