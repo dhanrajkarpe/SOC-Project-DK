@@ -39,4 +39,4 @@ Determine whether the email is malicious or safe.
 ## Author
 Dhanraj Karpe
 
-SOC / Cybersecurity Lab Project
+SOC Lab Project
