@@ -1,0 +1,15 @@
+
+HTTP Traffic
+http
+
+DNS Traffic
+dns
+
+TCP SYN Scan Detection
+tcp.flags.syn==1 and tcp.flags.ack==0
+
+Suspicious IP
+ip.addr==192.168.1.15
+
+FTP Traffic
+ftp

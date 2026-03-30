@@ -1,0 +1,28 @@
+Lab Setup Guide
+
+Basic setup to capture and analyze network traffic using Wireshark.
+
+Tool 
+
+Wireshark
+
+Steps
+
+1. Install Wireshark (with Npcap)
+
+2. Open Wireshark  
+   Select Wi-Fi/Ethernet  
+   Start capture
+
+3. Apply filters:
+   tcp
+   dns
+   tcp.flags.syn == 1
+
+4. Analyze:
+   IP addresses
+   Protocols
+   Suspicious traffic
+
+Result
+Captured and analyzed network traffic to detect suspicious activity.
